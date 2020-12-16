@@ -52,6 +52,7 @@ body {
   min-width: 300px;
   display: inline-block;
   vertical-align: top;
+  margin-left: 50px;
 }
 
 #footer h4 {
